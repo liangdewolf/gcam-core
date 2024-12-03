@@ -1,2 +1,8 @@
 vless://YXV0bzo1YjgyZWY1MC02ZDk2LTRiNzctOTY0Ni0xZDYwOGY0MWUwMDlAdXMtbHYuaGd1YW5kbC5jb206NDQz?remarks=BuyVM%20VLESS%20%E4%B8%8B%E8%BD%BD%E4%B8%93%E7%94%A8&tls=1&xtls=2
 hysteria2://5b82ef50-6d96-4b77-9646-1d608f41e009@us-lv.hguandl.com:443?peer=us-lv.hguandl.com&obfs=none#BuyVM%20Hy2%20%E4%B8%8B%E8%BD%BD%E4%B8%93%E7%94%A8
+trojan://WOeXShhJpL@104.18.62.116:443?peer=11jzus.zdzdzd.xyz&plugin=obfs-local;obfs=websocket;obfs-host=11jzus.zdzdzd.xyz;obfs-uri=/juzigongyi#%E6%A9%98%E5%AD%90%E7%BE%8E%E5%9B%BD_%E7%BE%8E%E5%9B%BDIP
+vmess://bm9uZTpiYzk3ZjY3NC1jNTc4LTQ5NDAtOTIzNC0wYTFkYTQ2MDQxYjlAd3d3LnZpc2EuY29tLnR3OjQ0Mw?remarks=PL-s12-vmss-argo&obfsParam=fork-email-navy-football.trycloudflare.com&path=/vmess?ed=2048&obfs=websocket&tls=1&peer=fork-email-navy-football.trycloudflare.com&alterId=0
+trojan://WOeXShhJpL@172.67.171.212:443?peer=11jzus.zdzdzd.xyz&plugin=obfs-local;obfs=websocket;obfs-host=11jzus.zdzdzd.xyz;obfs-uri=/juzigongyi#%E6%A9%98%E5%AD%90%E7%BE%8E%E5%9B%BD_%E6%AC%A7%E6%B4%B2IP
+vmess://YXV0bzoxZDI3ZTM3Ni0yZTdmLTQ5ZDgtYTQyZi03ZDMwNmJkNTAxNjlAMTYyLjE1OS4xMzguMTc4Ojg0NDM?remarks=%E9%A6%99%E6%B8%AF-Hyper%20Expert&obfsParam=wawo.madcity.lol&path=/?ed=2560&obfs=websocket&tls=1&peer=wawo.madcity.lol&alpn=http/1.1&alterId=0
+vmess://YXV0bzo3NzlmZjAxYy00YjdiLTQyNjctZGM5Yi1lNWY3MWQ1MTI5MTBAMTA0LjE2LjIyMy40ODo0NDM?remarks=xkysg&obfsParam=xkysg.tongshuai.us.kg&path=/?ed=2560&obfs=websocket&tls=1&peer=xkysg.tongshuai.us.kg&alterId=0
+trojan://WOeXShhJpL@172.67.38.98:443?peer=11jzus.zdzdzd.xyz&plugin=obfs-local;obfs=websocket;obfs-host=11jzus.zdzdzd.xyz;obfs-uri=/juzigongyi#%E6%A9%98%E5%AD%90%E7%BE%8E%E5%9B%BD_%E4%BA%9A%E6%B4%B2IP
