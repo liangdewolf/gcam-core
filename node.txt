@@ -1,2 +1,2 @@
 vless://YXV0bzo1YjgyZWY1MC02ZDk2LTRiNzctOTY0Ni0xZDYwOGY0MWUwMDlAdXMtbHYuaGd1YW5kbC5jb206NDQz?remarks=BuyVM%20VLESS%20%E4%B8%8B%E8%BD%BD%E4%B8%93%E7%94%A8&tls=1&xtls=2
-hysteria2://7e3ceb5f-4c0e-470a-9e15-1eeac03de9ab@107.172.235.75:47443?peer=dxobg4azmk.gafnode.sbs&obfs=none#LosAngeles-GetAFreeNode-529680804
+hysteria2://5b82ef50-6d96-4b77-9646-1d608f41e009@us-lv.hguandl.com:443?peer=us-lv.hguandl.com&obfs=none#BuyVM%20Hy2%20%E4%B8%8B%E8%BD%BD%E4%B8%93%E7%94%A8
